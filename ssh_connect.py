@@ -1,4 +1,4 @@
-import paramiko
+import paramiko1
 import time
 
 # Конфигурация для подключения
